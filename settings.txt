@@ -1,0 +1,3 @@
+Port: 8080
+directory: localhost
+max_bytes: 8192
